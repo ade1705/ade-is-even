@@ -1,0 +1,19 @@
+{
+  "name": "ade-is-even",
+  "version": "1.0.0",
+  "description": "Is even package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ade1705/ade-is-even.git"
+  },
+  "author": "Ade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ade1705/ade-is-even/issues"
+  },
+  "homepage": "https://github.com/ade1705/ade-is-even#readme"
+}
